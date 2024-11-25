@@ -9,7 +9,8 @@ Notas adicionais sobre strings:
 - Em Assembly, as strings podem ser manipuladas diretamente através de instruções como rep movsb (cópia de blocos) ou instruções específicas para processar caracteres como lodsb.
 ### Alocação dinâmica de memória
 
-![[https___dev-to-uploads.s3.amazonaws.com_uploads_articles_s81vxvgfylw0wfcf6if7.png]]
+![https___dev-to-uploads s3 amazonaws com_uploads_articles_s81vxvgfylw0wfcf6if7](https://github.com/user-attachments/assets/5b2466fa-4eb4-4565-a732-2f342ea82b30)
+
 
 - o layout é representado como uma área na memória do computador onde temos os endereços de memória mais baixos do programa em direção aos endereços mais altos que ficam no topo
 - nos endereços de memória mais baixos, temos a seção `.text`, onde já vimos que é referente ao programa em si
